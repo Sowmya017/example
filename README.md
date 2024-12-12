@@ -1,4 +1,4 @@
 # example
 this is just a demo
 <br>
-author-sowmya
+author-Sowmya Kuncham
